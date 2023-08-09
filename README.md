@@ -23,6 +23,7 @@
 </p>
 
 =============================== 
+                              
 Контакты для связи со мной:
 * 📬  [harrymidas@yandex.ru](mailto:harrymidas@yandex.ru)
 * 📢  [https://t.me/harrymidas](mailto:https://t.me/harrymidas)
