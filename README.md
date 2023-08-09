@@ -23,5 +23,5 @@
 </p>
 
 Контакты для связи со мной:
-* ✉️  [harrymidas@yandex.ru](mailto:harrymidas@yandex.ru)
-* ✉️  telegram: [https://t.me/harrymidas](mailto:https://t.me/harrymidas)
+* 📫  [harrymidas@yandex.ru](mailto:harrymidas@yandex.ru)
+* 📢  telegram: [https://t.me/harrymidas](mailto:https://t.me/harrymidas)
