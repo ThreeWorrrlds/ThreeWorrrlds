@@ -24,10 +24,10 @@
 </p>
                                                                                                            
 #### Контакты для связи со мной:
-
-[![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/f1llzzz)
-
 [![Static Badge](https://img.shields.io/badge/%40harrymidas%20-%20%2300BFFF?logo=Telegram&logoColor=white&labelColor=%2300BFFF)](https://t.me/harrymidas)
+
+[![Static Badge](https://img.shields.io/badge/harrymidas%40yandex.ru%20-%20rgb(255%2C%20215%2C%200)?logo=maildotru&logoColor=white&labelColor=%20rgb(214%2C%209%2C%209))](mailto:harrymidas@yandex.ru)
+
 
 
 
