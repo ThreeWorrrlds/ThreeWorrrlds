@@ -26,7 +26,7 @@
 #### Контакты для связи со мной:
 * 📬  [harrymidas@yandex.ru](mailto:harrymidas@yandex.ru)
                                                           
-<img alt="Static Badge" src="https://img.shields.io/badge/TG%20-%20%20https%3A%2F%2Ft.me%2Fharrymidas%20-%20%2300BFFF?link=https%3A%2F%2Fya.ru%2F">
+<object><img alt="Static Badge" src="https://img.shields.io/badge/TG%20-%20%20https%3A%2F%2Ft.me%2Fharrymidas%20-%20%2300BFFF?link=https%3A%2F%2Fya.ru%2F"></object>
 
 
 
