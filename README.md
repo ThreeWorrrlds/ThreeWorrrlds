@@ -24,8 +24,8 @@
 </p>
                                                                                                            
 #### Контакты для связи со мной:
-[![Static Badge](https://img.shields.io/badge/%40harrymidas%20-%20%2300BFFF?logo=Telegram&logoColor=white&labelColor=%2300BFFF)](https://t.me/harrymidas)    
-[![Static Badge](https://img.shields.io/badge/email%3A-harrymidas%40yandex.ru%20-%20%20rgb(214%2C%209%2C%209)?logoColor=white&labelColor=%20rgb(214%2C%209%2C%209))](mailto:harrymidas@yandex.ru)
+- [![Static Badge](https://img.shields.io/badge/%40harrymidas%20-%20%2300BFFF?logo=Telegram&logoColor=white&labelColor=%2300BFFF)](https://t.me/harrymidas)    
+- [![Static Badge](https://img.shields.io/badge/email%3A-harrymidas%40yandex.ru%20-%20%20rgb(214%2C%209%2C%209)?logoColor=white&labelColor=%20rgb(214%2C%209%2C%209))](mailto:harrymidas@yandex.ru)
 
 
 
