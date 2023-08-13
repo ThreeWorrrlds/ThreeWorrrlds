@@ -24,7 +24,9 @@
 </p>
                                                                                                            
 #### Контакты для связи со мной:
-<div><img alt="Static Badge" src="https://img.shields.io/badge/TG%20-%20%20https%3A%2F%2Ft.me%2Fharrymidas%20-%20%2300BFFF?labelColor=black&link=https%3A%2F%2Fyandex.ru%2Fpogoda%2F%3Flat%3D55.936386%26lon%3D37.980099%26utm_campaign%3Dinformer%26utm_content%3Dmain_informer%26utm_medium%3Dweb%26utm_source%3Dhome"></div>
+
+
+📫 Как связаться со мной: Telegram Badge Gmail Badge
 
 
 
