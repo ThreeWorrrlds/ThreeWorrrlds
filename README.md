@@ -25,8 +25,14 @@
                                                                                                            
 #### Контакты для связи со мной:
 
+[![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/f1llzzz)
 
-📫 Как связаться со мной: Telegram Badge Gmail Badge
+[![Static Badge](https://img.shields.io/badge/%40harrymidas%20-%20%2300BFFF?logo=Telegram&logoColor=white&labelColor=%2300BFFF)](https://t.me/harrymidas)
+
+
+
+
+
 
 
 
